@@ -1,0 +1,1 @@
+Entenda as colunas do "ls -l".
